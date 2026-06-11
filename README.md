@@ -1,5 +1,6 @@
 ## Identitas
 
+| Keterangan | Isi |
 | --- | --- |
 | Nama | Ahmad Pasya|
 | NIM | 20240803038 |
